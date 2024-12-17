@@ -1,13 +1,17 @@
-## MIDI-normalization
+# MIDI-normalization
 
 This project is to use Machine Learning to standardize such MIDI files and reduce the influence of musicians' live improvisation, ensuring that the notes land precisely on the beat where they belong. Thus it’s easier to convert them into sheet music using notation editors.
 
-# Sprint 1 & 2
+## Sprint 1 & 2
+
+In folder "Sprints".
+
+## Sprint 4
+
+Presented on zoom.
 
 
-
-
-# References
+## References
 
  - L. Liu, Q. Kong, V. Morfi, and E. Benetos, "Performance MIDI-to-score conversion by neural beat tracking", in 23rd International Society for Music Information Retrieval Conference (ISMIR), Dec. 2022. [(Paper)](https://www.turing.ac.uk/news/publications/performance-midi-score-conversion-neural-beat-tracking)
  - Adrien Ycart, & Emmanouil Benetos. (2018). A-MAPS: Augmented MAPS Dataset with Rhythm and Key Annotations (1.1) [Data set]. Zenodo. [(Data set)](https://doi.org/10.5281/zenodo.1421997)
