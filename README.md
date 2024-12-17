@@ -1,4 +1,4 @@
-# MIDI-normalization
+# MIDI-normalization (MIDI to music sheet)
 
 This project is to use Machine Learning to standardize such MIDI files and reduce the influence of musicians' live improvisation, ensuring that the notes land precisely on the beat where they belong. Thus it’s easier to convert them into sheet music using notation editors.
 
