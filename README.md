@@ -10,6 +10,10 @@ In folder "Sprints".
 
 Presented on zoom.
 
+## Note
+
+Currently copying code from SCC to github.
+
 
 ## References
 
