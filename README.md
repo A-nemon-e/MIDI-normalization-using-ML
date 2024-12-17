@@ -12,7 +12,7 @@ Presented on zoom.
 
 ## Note
 
-Currently copying code from SCC to github.
+Currently copying code from [BU SCC](https://www.bu.edu/tech/support/research/computing-resources/scc/) to github.
 
 
 ## References
